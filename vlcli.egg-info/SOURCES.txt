@@ -1,0 +1,11 @@
+setup.py
+vlcli/__init__.py
+vlcli/cli.py
+vlcli.egg-info/PKG-INFO
+vlcli.egg-info/SOURCES.txt
+vlcli.egg-info/dependency_links.txt
+vlcli.egg-info/entry_points.txt
+vlcli.egg-info/requires.txt
+vlcli.egg-info/top_level.txt
+vlcli/commands/__init__.py
+vlcli/commands/cmd_run.py
